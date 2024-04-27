@@ -1,3 +1,0 @@
-3DX_CUI_DEVICES_Supplier: CUI Devices
-3DX_CUI_DEVICES_Description: Type C, USB 3.2 Gen 2x2, 20 Gbps, 20 Vac, 5 A, Right Angle, Gold Flash, Surface Mount, Black Insulator, USB Receptacle
-3DX_CUI_DEVICES_Model Number: UJ32-C-H-G-H2-SMT-TR
