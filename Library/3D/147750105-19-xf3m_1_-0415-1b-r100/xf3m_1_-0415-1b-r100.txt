@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-06082015-071415";"";
+"REFERENCE";"XF3M(1)-0415-1B-R100";"";
+"TraceParts.ClassPath";"";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"TraceParts.InstanceId";"10-06082015-07141535WA4MJYI2746OFJLQ9GT0393";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Rotary Backlock Connector (0.5-mm Pitch, 1.0-mm Pitch, Dual Contact, Upper Contact) - XF3M";"";
+"SUPPLIER";"OMRON";"";
+"DESIGN";"Rotary Backlock Connector, 1.0 mm pitch, 4 pins, 100pcs per reel";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
